@@ -1,6 +1,6 @@
 # Blinky
 
-![Blinky Logo](path/to/logo.png) <!-- Replace with your logo if available -->
+![Blinky Logo](./logo.png) <!-- Replace with your logo if available -->
 
 ## Table of Contents
 
